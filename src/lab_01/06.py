@@ -4,8 +4,10 @@ ochn = 0
 distant = 0
 for i in participants:
     info = list(i.split())
-    info[2] = int(info[2])
-    info[3] = bool(info[3])
+    if info[3] == 'False':
+        info[3] = False
+    else:
+        info[3] = True
     if info[3] == True:
         ochn += 1
     else:
