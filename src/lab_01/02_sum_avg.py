@@ -1,4 +1,3 @@
-from math import *
 a = float(input('a: ').replace(',','.'))
 b = float(input('b: ').replace(',','.'))
 summ = a + b
