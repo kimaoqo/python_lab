@@ -25,14 +25,23 @@
 <h2>Задание 1</h2>
 Функция 1:
 Просто мин, макс и трай для проверки
+<img width="1088" height="931" alt="img_01" src="https://github.com/user-attachments/assets/1b6fd791-527a-4d9b-b661-c4acb2d03886" />
 Функция 2:
 Сет для удаления повторов и сортим
+<img width="801" height="893" alt="img_02" src="https://github.com/user-attachments/assets/7bf958f1-40fb-4367-b423-c9f4a3788704" />
 Функция 3:
 Просто склеиваем списки
+<img width="868" height="1033" alt="img_03" src="https://github.com/user-attachments/assets/eb4fc0df-31c8-4377-bc59-3608eef9dfbb" />
 <h2>Задание 2</h2>
 Функция 1:
 Для удобсвта делаем массив с размером исходной матрицы, дальше создаем каркас транспонированной матрицы и заполняем ее нулями, потом просто берем "координаты" и меняем их местами и добавляем в транспонированную матрицу, ну и всякие ошибки обрабатываем
+<img width="931" height="1016" alt="img_04" src="https://github.com/user-attachments/assets/890676d8-92ee-42b0-860b-2a9e80780925" />
 Функция 2:
 Просто делаем массив из сум + обрабатываем ошибки
+<img width="750" height="1023" alt="img_05" src="https://github.com/user-attachments/assets/8ba6090a-a56f-449c-a85e-b91e193ca55e" />
 Функция 3:
-Ну я поленился отдельно писать и просто транспонировал матрицу и посчитал сумму в ряда
+Ну я поленился отдельно писать и просто транспонировал матрицу и посчитал сумму рядов
+<img width="783" height="1022" alt="img_06" src="https://github.com/user-attachments/assets/3f9d2262-7db8-4489-95aa-f27dd716ea24" />
+<h2>Задание 3</h2>
+Ну тут хз че написать, просто сплитанул фио и обработал строки, потом просто сделал f-строку с инициалами, группой и округленным GPA
+<img width="1141" height="1026" alt="img_07" src="https://github.com/user-attachments/assets/0ae9cebb-4891-4eca-8825-63981097ca8e" />
